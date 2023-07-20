@@ -1,0 +1,55 @@
+{
+    "success": "OK",
+    "result": [
+        {
+            "httpResponseCode": 200,
+            "contentType": "application\/json",
+            "body": "{\"success\":\"username retrieved\",\"result\":{\"username\":\"ngoclong778888\",\"hasPassword\":\"1\"}}"
+        },
+        {
+            "httpResponseCode": 200,
+            "contentType": "application\/json",
+            "body": "{\"success\":\"OK\",\"result\":{\"userId\":\"1463268098\",\"fname\":\"iPhone Huy\",\"lname\":\"ghhh\",\"countryCode\":\"US\",\"gender\":\"female\",\"profilePicUrl\":\"\",\"age\":\"\",\"zipCode\":\"\",\"birthday\":\"\",\"showAds\":1,\"textfreeNotificationPrivacy\":\"0\",\"notifyAPNSToken\":\"7e558bc1a2095b3b9cfcc055b8efbcf3bf3b011ad0f43244dee1addb191d156a\",\"notifyAPNSStatus\":1,\"notifyAPNSBadgeNumber\":\"0\",\"notificationToken\":\"7e558bc1a2095b3b9cfcc055b8efbcf3bf3b011ad0f43244dee1addb191d156a\",\"notificationStatus\":1,\"notificationBadgeNumber\":\"0\",\"voipNotificationToken\":\"\",\"voipNotificationStatus\":\"\",\"isCallKitEnabled\":false,\"forgotPasswordEmail\":\"ngoclong778888@xtgem.com\",\"language\":\"vi-vn\",\"isDndActive\":false,\"facebookId\":\"\",\"facebookToken\":\"\",\"googleplusId\":\"\",\"googleplusToken\":\"\",\"notifyTextFree\":0,\"textfreeNotifEmail\":\"\",\"textfreePendingNotifEmail\":\"ngoclong778888@xtgem.com\",\"textfreeInterceptPhone\":\"\",\"textfreeInterceptPendingPhone\":\"\",\"isPasswordSet\":\"1\",\"isSystemGeneratedUsername\":1,\"username\":\"ngoclong778888\",\"optInForDataCollection\":true,\"optInMarketingNotification\":true,\"voicemailTranscription\":\"1\",\"isSidelinePro\":false,\"accountType\":\"textfree\",\"oooAutoReply\":0,\"oooAutoReplyForCall\":0,\"textfreeSignature\":\"\",\"voicemail\":\"A\",\"callHandlingSettings\":{\"transportType\":\"voip\",\"forwardToVoiceMail\":false,\"callAnnouncement\":false,\"simultaneousCall\":false,\"offline\":false}}}"
+        },
+        {
+            "httpResponseCode": 200,
+            "contentType": "application\/json",
+            "body": "{\"success\":\"ok\",\"result\":{\"wifiCalling\":1,\"pstnCalling\":0,\"voicemailTranscription\":0,\"allowPortOut\":0,\"allowPortIn\":0,\"hideAds\":0,\"phoneNotExpirable\":0,\"salesForceIntegration\":0,\"domesticFreeCalling\":0,\"internationalUnmeteredCalling\":0,\"quickText\":0,\"contacts\":0,\"actionLayer\":0,\"outreach\":0,\"broadcast\":0,\"spamRecognition\":0,\"appointmentReminder\":0,\"phoneNumberChange\":0,\"numberId\":0,\"verificationCode\":0,\"doNotDisturb\":0,\"businessProfile\":0,\"crm\":0,\"paymentLinks\":0,\"reviews\":0}}"
+        },
+        {
+            "httpResponseCode": 200,
+            "contentType": "application\/json",
+            "body": "{\"success\":\"phone retrieved\",\"result\":{\"hasVoice\":1,\"isExpired\":0,\"phoneNumber\":\"16828821467\",\"creditBalance\":0,\"smsCreditBalance\":0,\"callingCreditBalance\":0,\"asymmetryMax\":0,\"numTextsSent\":0,\"numTextsRec\":0,\"inviteCount\":0,\"isPurchased\":0}}"
+        },
+        {
+            "httpResponseCode": 200,
+            "contentType": "application\/json",
+            "body": "{\"success\":\"credentials retrieved\",\"result\":{\"username\":\"_1463268098\",\"password\":\"1xn58M03AP\"}}"
+        },
+        {
+            "httpResponseCode": 200,
+            "contentType": "application\/json",
+            "body": "{\"success\":\"p2p sip connection info\",\"result\":{\"tcpSRVAddress\":\"_sip._tcp.pvn.pinger.com\",\"udpSRVAddress\":\"_sip._udp.pvn.pinger.com\",\"stunServerSRVAddress\":\"_stun._udp.pvn.pinger.com\",\"turnServerSRVAddress\":\"_turn._tcp.pvn.pinger.com\",\"networkTesterSRVAddress\":\"_ntest._udp.pvn.pinger.com\",\"defaultProxyAddresses\":[[\"tcp\",\"sj2-pvn07.pinger.com\",443,10,300],[\"tcp\",\"sj2-pvn06.pinger.com\",443,10,300],[\"tcp\",\"sj2-pvn08.pinger.com\",443,10,298],[\"tcp\",\"sj2-pvn05.pinger.com\",443,10,301],[\"udp\",\"sj2-pvn05.pinger.com\",4544,5,300],[\"udp\",\"sj2-pvn06.pinger.com\",4544,5,300],[\"udp\",\"sj2-pvn07.pinger.com\",4544,5,300],[\"udp\",\"sj2-pvn05.pinger.com\",5060,10,300],[\"udp\",\"sj2-pvn06.pinger.com\",5060,10,300],[\"udp\",\"sj2-pvn08.pinger.com\",4544,5,300]],\"defaultStunAddresses\":[[\"tcp\",\"sj2-pvn08.pinger.com\",5060,5,10],[\"tcp\",\"sj2-pvn06.pinger.com\",5060,5,10],[\"tcp\",\"sj2-pvn05.pinger.com\",5060,5,10],[\"tcp\",\"sj2-pvn07.pinger.com\",5060,5,10]],\"defaultTurnAddresses\":[],\"defaultNetworkTesterAddresses\":[[\"sj2-pvn08.pinger.com\",2251,5,10],[\"sj2-pvn07.pinger.com\",2251,5,10],[\"sj2-pvn05.pinger.com\",2251,5,10],[\"sj2-pvn06.pinger.com\",2251,5,10]],\"sipProtocol\":\"udp\",\"stayRegisteredInBackground\":false,\"stayRegisteredBatteryLife\":50,\"backgroundRegistrationSeconds\":3600,\"p2pEnabled\":false,\"turnEnabled\":false,\"enableSIPTrace\":false}}"
+        },
+        {
+            "httpResponseCode": 200,
+            "contentType": "application\/json",
+            "body": "{\"success\":\"balance retrieved\",\"result\":{\"balance\":0,\"callingCreditBalance\":0}}"
+        },
+        {
+            "httpResponseCode": 200,
+            "contentType": "application\/json",
+            "body": "{\"errNo\":1801,\"errMsg\":\"user has no registered phone number\",\"retry\":0}"
+        },
+        {
+            "httpResponseCode": 200,
+            "contentType": "application\/json",
+            "body": "{\"success\":\"Success\",\"result\":{\"state\":0}}"
+        },
+        {
+            "httpResponseCode": 200,
+            "contentType": "application\/json",
+            "body": "{\"success\":\"blocked addresses retrieved\",\"result\":{\"blockedAddresses\":[]}}"
+        }
+    ]
+}

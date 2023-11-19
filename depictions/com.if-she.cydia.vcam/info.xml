@@ -1,0 +1,20 @@
+<package>
+	<id>com.if-she.cydia.vcam</id>
+	<name>ACrack ATT</name>
+	<version>1.7.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>14.8</maxiOS>
+			<otherVersions>13.0</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>No</dependencies>
+	<descriptionlist>
+		<description>com.if-she.cydia.vcam</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>VCAM</change>
+	</changelog>
+	<links></links>
+</package>

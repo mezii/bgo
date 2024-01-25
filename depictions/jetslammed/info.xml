@@ -1,0 +1,23 @@
+<package>
+	<id>com.mins.jetslammed</id>
+	<name>jetslammed</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>12</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Jetslammed repacked from ModMyi repo (For adding dependencies)</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

@@ -1,0 +1,20 @@
+<package>
+	<id>me.autotouch.autotouch.ios8.inputtext</id>
+	<name>Lala New</name>
+	<version>1.7.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>14.8</maxiOS>
+			<otherVersions>13.0</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>No</dependencies>
+	<descriptionlist>
+		<description>me.autotouch.autotouch.ios8.inputtext</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>5s</change>
+	</changelog>
+	<links></links>
+</package>

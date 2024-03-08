@@ -1,0 +1,20 @@
+<package>
+	<id>com.julioverne.sslkillswitch2</id>
+	<name>SSL 2 KILL</name>
+	<version>1.7.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>14.8</maxiOS>
+			<otherVersions>13.0</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>No</dependencies>
+	<descriptionlist>
+		<description>com.julioverne.sslkillswitch2</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>5s</change>
+	</changelog>
+	<links></links>
+</package>

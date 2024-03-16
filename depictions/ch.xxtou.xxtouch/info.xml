@@ -1,0 +1,20 @@
+<package>
+	<id>ch.xxtou.xxtouch</id>
+	<name>XXTouch</name>
+	<version>1.7.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>16.3</maxiOS>
+			<otherVersions>13.0</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>No</dependencies>
+	<descriptionlist>
+		<description>ch.xxtou.xxtouch</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>XXTouch new build</change>
+	</changelog>
+	<links></links>
+</package>

@@ -1,0 +1,20 @@
+<package>
+	<id>com.mins.mtouch</id>
+	<name>MMTouch</name>
+	<version>1.7.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>16.3</maxiOS>
+			<otherVersions>13.0</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>No</dependencies>
+	<descriptionlist>
+		<description>com.mins.mtouch</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>MMTouch new build for iOS 12</change>
+	</changelog>
+	<links></links>
+</package>

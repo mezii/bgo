@@ -1,5 +1,5 @@
 <package>
-	<id>com.linusyang.appinst</id>
+	<id>ai.akemi.appinst</id>
 	<name>AppInst</name>
 	<version>1.7.0</version>
 	<compatibility>
@@ -10,11 +10,11 @@
 	</compatibility>
 	<dependencies>No</dependencies>
 	<descriptionlist>
-		<description>com.linusyang.appinst</description>
+		<description>ai.akemi.appinst</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>com.linusyang.appinst</change>
+		<change>ai.akemi.appinst</change>
 	</changelog>
 	<links></links>
 </package>

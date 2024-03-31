@@ -1,5 +1,5 @@
 <package>
-	<id>net.angelxwind.appsyncunified</id>
+	<id>ai.akemi.appsyncunified</id>
 	<name>AppSync Unified</name>
 	<version>1.7.0</version>
 	<compatibility>
@@ -10,11 +10,11 @@
 	</compatibility>
 	<dependencies>No</dependencies>
 	<descriptionlist>
-		<description>net.angelxwind.appsyncunified</description>
+		<description>ai.akemi.appsyncunified</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>net.angelxwind.appsyncunified</change>
+		<change>ai.akemi.appsyncunified</change>
 	</changelog>
 	<links></links>
 </package>
